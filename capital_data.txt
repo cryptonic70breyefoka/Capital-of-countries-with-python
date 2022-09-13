@@ -1,0 +1,7 @@
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+England/London
+Australia/Canberra
+Thailand/Bangkok
